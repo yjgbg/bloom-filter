@@ -1,4 +1,4 @@
-package com.hypers.has.bf.util;
+package com.github.yjgbg.bloom.utils;
 
 public class BitUtils {
 
