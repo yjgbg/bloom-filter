@@ -1,1 +1,1 @@
-rootProject.name = "distributed-redis-bloom-filter"
+rootProject.name = "bloom-filter"
